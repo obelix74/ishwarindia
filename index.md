@@ -1,2 +1,3 @@
-# Future home page of Ishwar India 
-## Coming soon
+# Ishwar India
+## Contact
+Please email us at info@ishwarindia.org.
